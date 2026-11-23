@@ -20,12 +20,13 @@
 - 🎤 I love public speaking and presenting. Results only matter when people understand them.
 - 📍 Kandy, Sri Lanka · 🎯 Open to **Data Science / Data Engineering internships**
 
-## 🔭 Currently Building
+## 🔭 Featured Projects
 
 | Project | What it does |
 |---|---|
-| 🔍 **Structured Hiring System** | An AI recruitment system built around a role rubric, from intake to screening to decision. Uses RAG, LLM agents and NLP, all on free and open-source tools |
-| 🛒 **Grocery Demand Forecasting** | One end-to-end pipeline: SQL, forecasting, customer segmentation and explainability (SHAP), served as a product |
+| 🛒 **[Shelfcast](https://github.com/MahdhiS/shelfcast)** *(in progress)* | Grocery demand forecasting and replenishment on **125M rows** of real supermarket sales plus weather data. PostgreSQL + dbt warehouse with data tests → LightGBM forecasts, SHAP explanations and a FastAPI dashboard |
+| 🏨 **[Hotel Cancellation Risk](https://github.com/MahdhiS/hotel-cancellation)** | Team lead on a 4-person ML project: predicts booking cancellations (XGBoost) and segments bookings (K-Means) to recommend **who should pay a deposit**. Includes a decision log, bias check and demo video |
+| 🔍 **Structured Hiring System** *(starting soon)* | An AI recruitment system built around a role rubric, from intake to screening to decision. Uses RAG, LLM agents and NLP, all on free and open-source tools |
 
 ## 📖 Currently Learning
 
@@ -49,6 +50,8 @@ Neural networks with **TensorFlow** · *Hands-On Machine Learning* by Aurélien 
 **Data Engineering**
 <br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Warehousing_&_ETL-0b1736?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_APIs-2b5797?style=for-the-badge"/>
 
